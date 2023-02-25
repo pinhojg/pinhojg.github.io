@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title>常用语法and命令</title>
-      <link href="/2023/02/23/2023-02-23/"/>
-      <url>/2023/02/23/2023-02-23/</url>
+      <title>hexo  搭建</title>
+      <link href="/2023/03/23/2023-02-23/"/>
+      <url>/2023/03/23/2023-02-23/</url>
       
-        <content type="html"><![CDATA[<h1 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h1><div class="row">    <embed src="https://www.cnblogs.com/lijianyyds/articles/17149317.html" width="100%" height="550" type="application/pdf"></div><p><a href="https://www.cnblogs.com/lijianyyds/articles/17149317.html">https://www.cnblogs.com/lijianyyds/articles/17149317.html</a></p>]]></content>
+        <content type="html"><![CDATA[<p>5.1 Front-matter<br>Front-matter 是 markdown 文件最上方以—-分隔的区域，用于指定个别档案的变数。</p><p>Page Front-matter 用于页面配置<br>Post Front-matter 用于文章页配置</p><p>写法            解释<br>title              【必需】页面标题<br>date              【必需】页面创建日期<br>type              【必需】标籤、分类和友情链接三个页面需要配置<br>updated              【可选】页面更新日期<br>description          【可选】页面描述<br>keywords          【可选】页面关键字<br>comments          【可选】显示页面评论模块(默认 true)<br>top_img              【可选】页面顶部图片<br>mathjax              【可选】显示mathjax(当设置mathjax的per_page: false时，才需要配置，默认 false)<br>kates              【可选】显示katex(当设置katex的per_page: false时，才需要配置，默认 false)<br>aside              【可选】显示侧边栏 (默认 true)<br>aplayer              【可选】在需要的页面加载aplayer的js和css,请参考文章下面的音乐 配置<br>highlight_shrink  【可选】配置代码框是否展开(true/false)(默认为设置中highlight_shrink的配置)</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title:</span><br><span class="line">date:</span><br><span class="line">updated:</span><br><span class="line">type:</span><br><span class="line">comments:</span><br><span class="line">description:</span><br><span class="line">keywords:</span><br><span class="line">top_img:</span><br><span class="line">mathjax:</span><br><span class="line">katex:</span><br><span class="line">aside:</span><br><span class="line">aplayer:</span><br><span class="line">highlight_shrink:</span><br><span class="line">---</span><br></pre></td></tr></table></figure>]]></content>
       
       
+      <categories>
+          
+          <category> 基础用法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
       
     </entry>
     
